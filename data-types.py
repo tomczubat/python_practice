@@ -7,5 +7,5 @@ float = 3.222
 print(string, type(string))
 print(num, type(num))
 print(float, type(float))
-print('\n\n\n\n')
+print('\n\n\n\ng')
 

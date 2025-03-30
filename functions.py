@@ -4,3 +4,5 @@ def squared(x: int):
 
 print(squared(5))
 
+def
+
