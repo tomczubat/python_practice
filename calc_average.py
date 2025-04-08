@@ -8,4 +8,3 @@ def calculate_average(numbers):
     return average
 
 
-print([1,2,3, 5,10])
